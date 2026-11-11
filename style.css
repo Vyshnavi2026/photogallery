@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
